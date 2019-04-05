@@ -9,7 +9,8 @@
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
-            "js": ["image_changer.js"]
+            "js": ["image_changer.js"],
+            "run_at": "document_end"
         }
     ],
     "manifest_version": 2
