@@ -49,7 +49,7 @@ Anytime you're on the website the script was written for, anytime a particular e
 <br>If you want to prank your friends with random scripts that change every picture on the websites they visit to dogs/cats/<a href="https://github.com/mrvivacious/ahegao">anime</a>, EEAAAASSSSYYYYYYYYYYYYY.
 </p>
 
-### <a href="">How [next page]</a>?
+### <a href="https://github.com/mrvivacious/Conscious_consumer/blob/master/page0.md">How</a>?
 
 <p>
 * Sources for the images: screenshots by David Wang (davidw1339) and Vivek Bhookya (mrvivacious)
