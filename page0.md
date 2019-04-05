@@ -62,7 +62,7 @@
   For this class, we will be building a small background script that you can later extend to a popup extension.
 </p>
 
-### <a href="https://github.com/mrvivacious/Conscious_consumer/blob/master/page1.md">Let's builds ~</a>
+### <a href="https://github.com/mrvivacious/Conscious_consumer/blob/master/page1.md">Let's build ~</a>
 
 
 
