@@ -20,7 +20,9 @@ You - the person who browses the internet and consumes information in the way th
   However, with a little bit of JavaScript, we will find that we can customize the way websites present themselves, enabling us to levels of customization that benefit ourselves and our purposes ~
 </p>
 
-For instance, I didn't like seeing "likes" on social media, so I <a href="https://chrome.google.com/webstore/detail/likefree/hejgbghjhjiilikhjinpbooockoiipek">built an app that hides the likes</a>. Here is a demo using Instagram:
+For instance, I didn't like seeing "likes" on social media because I noticed that I was unintentionally skipping past 
+posts with "less" activity. As I didn't think that my viewing experience was fair and needlessely based on what other people
+thought instead of me making my own opinion, I <a href="https://chrome.google.com/webstore/detail/likefree/hejgbghjhjiilikhjinpbooockoiipek">built an app that hides the likes</a>. Here is a demo using Instagram:
 
 Without browser modifications | After browser modifications
 :-:|:-:
@@ -41,13 +43,13 @@ Anytime you're on the website the script was written for, anytime a particular e
 ### Why?
 
 <p>
-I built <a href="https://play.google.com/store/apps/details?id=com.mrvivacious.android.fortuneballll">an app that generates a positive/good vibes message that I can share</a> but I didn't like how long the process took. I recently started building with Alexa and I thought it would be a much faster solution to my problem while being an opportunity to increase my Alexa skillset.
-For you, this can help provide insight into connecting AWS SNS with AWS Lambda and the Alexa Voice Service.
-  
-  After building the extension to hide likes and spending more time with web development, I noticed that essentially all compononents of any site could be manipulated to suit the user's desires. With this knowledge, customizing the way you consume the web can influence the way you process information, interact with websites, restructure the ways websites present content, and <a href="https://chrome.google.com/webstore/detail/porno-porn-blocker-beta/fnfchnplgejcfmphhboehhlpcjnjkomp">much, much more</a>.
+  Now that you are armed with some knowledge to manipulate the way the internet presents information, you are now capable 
+  of solving the annoyances and nuances you were once at the mercy of -- for instance, if you feel that your favorite social networking site has some excessive or annoying features, you can cut it all out eassyyyyyyyy. If you want a dark theme on that
+  site you visit a lot but is way too bright at night, you can add your own dark theme eassyyyyy. 
+<br>If you want to prank your friends with random scripts that change every picture on the websites they visit to dogs/cats/<a href="https://github.com/mrvivacious/ahegao">anime</a>, EEAAAASSSSYYYYYYYYYYYYY.
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page0.md">How [next page]</a>?
+### <a href="">How [next page]</a>?
 
 <p>
 * Sources for the images: screenshots by David Wang (davidw1339) and Vivek Bhookya (mrvivacious)
