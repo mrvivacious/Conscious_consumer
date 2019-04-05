@@ -1,0 +1,16 @@
+  {
+    "name": "Image Changer",
+    "version": "1.0",
+    "description": "Changes all images on the net to _",
+    "background": {
+        "scripts": ["image_changer.js"],
+        "persistent": false
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["image_changer.js"]
+        }
+    ],
+    "manifest_version": 2
+  }
